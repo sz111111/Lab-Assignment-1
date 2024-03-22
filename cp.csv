@@ -1,0 +1,51 @@
+state,mrate,execr,unemp
+Alabama,12.2,0.040919201,3.9
+Alaska,7.5,0,6
+Arizona,6.1,0,4.8
+Arkansas,9.1,0,3.7
+California,4.8,0,4.2
+Colorado,4.7,0,3
+Connecticut,2.8,0,3.9
+Delaware,6.8,0,3.7
+Florida,6.6,0.009414282,3.6
+Georgia,7.7,0.019027448,4
+Hawaii,3.1,0,2.4
+Idaho,2.3,0,2.9
+Illinois,8,0,4.4
+Indiana,7.4,0,3.4
+Iowa,2.7,0,2.6
+Kansas,5.9,0,3.4
+Kentucky,6.1,0,4.2
+Louisiana,13.3,0,4.8
+Maine,0,0,3.2
+Maryland,9.3,0,3.8
+Massachusetts,2.3,0,3.5
+Michigan,6.5,0,4.2
+Minnesota,2.3,0,3
+Mississippi,13.4,0,4.9
+Missouri,11.4,0,3.2
+Montana,4.2,0,3.7
+Nebraska,1.9,0.051931488,2.9
+Nevada,7.7,0,4.4
+New Hampshire,1.8,0,2.6
+New Jersey,3.7,0,4
+New Mexico,10.8,0,4.9
+New York,3.2,0,4.1
+North Carolina,6.4,0,4
+North Dakota,2.5,0,2.4
+Ohio,6.8,0.008564327,4.5
+Oklahoma,7,0,3.3
+Oregon,2.5,0,4
+Pennsylvania,6.4,0,4.4
+Rhode Island,0,0,4
+South Carolina,10.2,0,3.4
+South Dakota,3.9,0.113804743,2.8
+Tennessee,9.2,0.044302473,3.5
+Texas,5.4,0.045409032,3.9
+Utah,2.2,0,2.9
+Vermont,0,0,2.5
+Virginia,5.1,0,3
+Washington,3.7,0,4.4
+West Virginia,5.8,0,5.1
+Wisconsin,3.9,0,3
+Wyoming,4.1,0,4.1
